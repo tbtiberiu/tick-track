@@ -58,9 +58,9 @@ TickTrack has been tested on a variety of images, including:
 
 - Simple clocks with clear, distinguishable hands.
 - Clocks with different background colors and textures.
-- Various clock designs, ensuring the algorithm's robustness.
 
 **Limitations:**
 
 - May struggle with highly complex backgrounds or clocks with unconventional designs.
 - Performance may vary based on image quality and resolution.
+- Clocks must have a circular frame.
